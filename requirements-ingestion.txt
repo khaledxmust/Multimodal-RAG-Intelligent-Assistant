@@ -1,0 +1,5 @@
+# Optional website collection pipeline. The demo corpus needs none of these.
+-r requirements.txt
+beautifulsoup4>=4.12,<5
+trafilatura>=1.12,<3
+playwright>=1.49,<2

@@ -1,0 +1,89 @@
+{
+  "description": "Retrieval benchmark cases for the Telecom Egypt intelligent assistant.",
+  "minimum_retrieval_score": 0.8,
+  "cases": [
+    {
+      "id": "AR_WE_SPACE",
+      "language": "ar",
+      "query": "باقات النت الأرضي من WE؟",
+      "expected_any": [
+        "WE SPACE",
+        "SPACE"
+      ],
+      "notes": "Arabic fixed-broadband query."
+    },
+    {
+      "id": "EN_WE_SPACE",
+      "language": "en",
+      "query": "What are WE SPACE packages?",
+      "expected_any": [
+        "WE SPACE",
+        "SPACE"
+      ],
+      "notes": "English product-name query."
+    },
+    {
+    "id": "EGY_FIXED_INTERNET",
+    "language": "ar-eg",
+    "query": "إيه باقات النت الارضي؟",
+    "expected_any": [
+      "WE SPACE",
+      "SPACE",
+      "OneHome",
+      "إنترنت منزلي",
+      "إنترنت منزلى"
+    ],
+    "notes": "Egyptian Arabic broad home-internet category query."
+  },
+    {
+      "id": "AR_EKYC",
+      "language": "ar",
+      "query": "ما هي خدمة eKYC؟",
+      "expected_any": [
+        "eKYC",
+        "EKYC"
+      ],
+      "notes": "Arabic eKYC query."
+    },
+    {
+      "id": "EN_EKYC",
+      "language": "en",
+      "query": "What is eKYC?",
+      "expected_any": [
+        "eKYC",
+        "EKYC"
+      ],
+      "notes": "English eKYC query."
+    },
+    {
+      "id": "AR_WE_LIFE",
+      "language": "ar",
+      "query": "ما هي خدمة WE Life؟",
+      "expected_any": [
+        "WE LIFE",
+        "WE Life"
+      ],
+      "notes": "Exact product-name retrieval / reranking case."
+    },
+    {
+      "id": "EN_WE_LIFE",
+      "language": "en",
+      "query": "What is WE LIFE?",
+      "expected_any": [
+        "WE LIFE",
+        "WE Life"
+      ],
+      "notes": "English exact product-name case."
+    },
+    {
+      "id": "AR_WE_SONIC",
+      "language": "ar",
+      "query": "ما هي WE SONIC؟",
+      "expected_any": [
+        "WE SONIC",
+        "SONIC"
+      ],
+      "notes": "Arabic exact product-name case."
+    }
+  ]
+}

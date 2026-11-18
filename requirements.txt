@@ -1,0 +1,15 @@
+# Python 3.11. Install a PyTorch build for your CPU/CUDA platform first.
+# These compatibility ranges are a starting point, not a resolved lockfile.
+streamlit>=1.50,<2
+requests>=2.32,<3
+python-dotenv>=1.0,<2
+numpy>=1.26,<3
+qdrant-client>=1.13.2,<1.14
+sentence-transformers>=3.4,<4
+transformers>=4.41,<5
+torch>=2.2,<3
+pypdf>=5,<7
+python-docx>=1.1,<2
+pytesseract>=0.3.13,<0.4
+Pillow>=10.4,<13
+pypdfium2>=4.30,<6

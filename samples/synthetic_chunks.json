@@ -1,0 +1,62 @@
+[
+  {
+    "chunk_id": "demo-support-en",
+    "document_id": "demo-support-en",
+    "chunk_index": 0,
+    "chunk_total": 1,
+    "title": "Demo support contact",
+    "source": "synthetic_demo",
+    "source_kind": "synthetic_document",
+    "content_language": "en",
+    "text": "This is fictional demonstration material. Contact the demo support team by email at helpdesk@example.invalid from Sunday to Thursday, 09:00 to 17:00 Cairo time. This example address cannot receive messages. No real telecom support policy is represented.",
+    "char_count": 253,
+    "url": "",
+    "final_url": "",
+    "section_label": "Fictional demonstration"
+  },
+  {
+    "chunk_id": "demo-support-ar",
+    "document_id": "demo-support-ar",
+    "chunk_index": 0,
+    "chunk_total": 1,
+    "title": "التواصل مع دعم التجربة",
+    "source": "synthetic_demo",
+    "source_kind": "synthetic_document",
+    "content_language": "ar",
+    "text": "هذه معلومات خيالية للتجربة. للتواصل مع فريق دعم التجربة يمكن استخدام البريد helpdesk@example.invalid من الأحد إلى الخميس من الساعة التاسعة صباحاً حتى الخامسة مساءً بتوقيت القاهرة. العنوان تجريبي ولا يستقبل الرسائل ولا يعبر عن سياسة أي شركة اتصالات.",
+    "char_count": 248,
+    "url": "",
+    "final_url": "",
+    "section_label": "Fictional demonstration"
+  },
+  {
+    "chunk_id": "demo-uploads",
+    "document_id": "demo-uploads",
+    "chunk_index": 0,
+    "chunk_total": 1,
+    "title": "Demo document uploads",
+    "source": "synthetic_demo",
+    "source_kind": "synthetic_document",
+    "content_language": "en",
+    "text": "This is fictional demonstration material. The assistant accepts PDF, DOCX, TXT, PNG, JPG, and JPEG uploads. Text PDFs use extracted text. Scanned PDFs and images use optional Tesseract OCR with English and Arabic language data. Uploaded documents become reference context in the local vector collection.",
+    "char_count": 303,
+    "url": "",
+    "final_url": "",
+    "section_label": "Fictional demonstration"
+  },
+  {
+    "chunk_id": "demo-verify",
+    "document_id": "demo-verify",
+    "chunk_index": 0,
+    "chunk_total": 1,
+    "title": "Fictional identity verification",
+    "source": "synthetic_demo",
+    "source_kind": "synthetic_document",
+    "content_language": "en",
+    "text": "This is fictional demonstration material. The fictional identity verification workflow requires a demonstration reference code and a mock document. Use synthetic examples when trying this workflow. This sample describes a made-up process and contains no real eligibility rules, prices, or identity records.",
+    "char_count": 306,
+    "url": "",
+    "final_url": "",
+    "section_label": "Fictional demonstration"
+  }
+]
